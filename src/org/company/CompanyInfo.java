@@ -9,6 +9,7 @@ public class CompanyInfo {
 	public static void main(String[] args) {
 		CompanyInfo ci=new CompanyInfo();
 		ci.companyName("ram", 123, 'a');
+		System.out.println("arvind");
 		
 	}
 
