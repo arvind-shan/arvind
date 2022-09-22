@@ -10,6 +10,7 @@ public class CompanyInfo {
 		CompanyInfo ci=new CompanyInfo();
 		ci.companyName("ram", 123, 'a');
 		System.out.println("arvind");
+		System.out.println("aahash");
 		
 	}
 
