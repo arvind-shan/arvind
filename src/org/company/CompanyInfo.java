@@ -5,11 +5,13 @@ public class CompanyInfo {
 		System.out.println("name is "+name);
 		System.out.println("id is "+id);
 		System.out.println("block is "+block);
+		System.out.println("square has four sides");
 	}
 	public static void main(String[] args) {
 		CompanyInfo ci=new CompanyInfo();
 		ci.companyName("ram", 123, 'a');
 		System.out.println("arvind");
+		System.out.println("triangle has three sides");
 		
 	}
 
